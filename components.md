@@ -1,7 +1,7 @@
 # PC-Build
 
-## CPU: (Intel Core i5 12400F) [https://elbadrgroupeg.store/intel-core-i5-12400f-alder-lake-6-core-12-thread-up-to-4-4ghz-lga1700?search=INTEL%20I5%20]
-### Price: 7,999 EGP
+## CPU: [Intel Core i5 12400F](https://ark.intel.com/content/www/us/en/ark/products/134587/intel-core-i5-12400f-processor-18m-cache-up-to-4-40-ghz.html)
+### Price: 7,999 EGP. Seller: [Elbadr Group](https://elbadrgroupeg.store/intel-core-i5-12400f-alder-lake-6-core-12-thread-up-to-4-4ghz-lga1700?search=INTEL%20I5%20).
 
 ## CPU Cooler (AMD over 5000 series): 
 ### Price: 
